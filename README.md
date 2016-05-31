@@ -1,6 +1,8 @@
 gravatar
 ========
 
+[![Join the chat at https://gitter.im/rynr/gravatar](https://badges.gitter.im/rynr/gravatar.svg)](https://gitter.im/rynr/gravatar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple class to generate Gravatar URL for a email-address.
 
 Usage:
